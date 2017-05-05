@@ -20,7 +20,7 @@ and Gnome 2 desktops.
 
 * Ambiance XFWM4
 
-  [![Ambiance XFWM4](https://raw.github.com/kirsle/linux-themes/master/xfwm4/Ambiance XFWM4/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/xfwm4/Ambiance XFWM4)
+  [![Ambiance XFWM4](https://raw.github.com/kirsle/linux-themes/master/xfwm4/Ambiance%20XFWM4/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/xfwm4/Ambiance XFWM4)
 
 * OpenSolaris Nimbus
 
@@ -28,7 +28,7 @@ and Gnome 2 desktops.
 
 * OpenSolaris Nimbus w/ App Icons
 
-  [![Nimbus AppIcons](https://raw.github.com/kirsle/linux-themes/master/xfwm4/Nimbus AppIcons/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/xfwm4/Nimbus AppIcons)
+  [![Nimbus AppIcons](https://raw.github.com/kirsle/linux-themes/master/xfwm4/Nimbus%20AppIcons/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/xfwm4/Nimbus AppIcons)
   
 # MATE
 
@@ -38,16 +38,16 @@ and Gnome 2 desktops.
 
 * Lunacity Blue
 
-  [![Lunacity Blue](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity Blue/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Blue)
+  [![Lunacity Blue](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity%20Blue/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Blue)
 
 * Lunacity Olive Green
 
-  [![Lunacity Olive Green](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity Olive Green/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Olive Green)
+  [![Lunacity Olive Green](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity%20Olive%20Green/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Olive Green)
 
 * Lunacity Silver
 
-  [![Lunacity Silver](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity Silver/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Silver)
+  [![Lunacity Silver](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity%20Silver/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Silver)
 
 * Lunacity Pink
 
-  [![Lunacity Pink](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity Pink/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Pink)
+  [![Lunacity Pink](https://raw.github.com/kirsle/linux-themes/master/metacity/Lunacity%20Pink/screenshot.png)](https://github.com/kirsle/linux-themes/tree/master/metacity/Lunacity Pink)
